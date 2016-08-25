@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	CJiebaWord* words = Cut(handle, s, len);
 	CJiebaWord* x;
 	for (x = words; x && x->word; x++) {
-		printf("%*.*s,", x->len, x->len, x->word);
+		printf("%*.*s\n", x->len, x->len, x->word);
 	}
 	FreeWords(words);
 	FreeJieba(handle);
