@@ -13,6 +13,9 @@
 ```
 make
 ./demo
+./jiebacut 當你在穿山越嶺的另一邊我在孤獨的路上沒有盡頭
+./jiebacutwithouttagname 當你在穿山越嶺的另一邊我在孤獨的路上沒有盡頭
+./jiebacutnewextractor 當你在穿山越嶺的另一邊我在孤獨的路上沒有盡頭
 ```
 
 ## 编译相关
